@@ -9,7 +9,7 @@ msg = """
   
           +, -, *, /,
 
-  Usage is simply!
+  Usage is simple!
       You can enter all right in a row like this 
          > 5 5 5 8 + + -
 

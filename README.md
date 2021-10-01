@@ -29,7 +29,7 @@ We assume that you have `git` and `virtualenv` installed.
 ### Running tests:
 
 ```bash
-python3 -mpytest tests  
+    python3 -mpytest tests  
 ```
 
 
